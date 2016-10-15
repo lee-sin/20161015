@@ -1,1 +1,1 @@
-git is version control system
+git is disversion control system
